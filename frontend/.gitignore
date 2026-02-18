@@ -25,3 +25,9 @@ dist-ssr
 .DS_Store
 node_modules
 .env
+node_modules
+.DS_Store
+.env
+node_modules
+.DS_Store
+.env
